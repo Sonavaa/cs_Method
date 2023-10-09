@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\bin\Debug\net6.0\cs_Method.exe
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\bin\Debug\net6.0\cs_Method.deps.json
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\bin\Debug\net6.0\cs_Method.runtimeconfig.json
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\bin\Debug\net6.0\cs_Method.dll
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\bin\Debug\net6.0\cs_Method.pdb
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.dll
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\refint\cs_Method.dll
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.pdb
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\cs_Method.genruntimeconfig.cache
+C:\Users\HP\Desktop\P237\c# Method\cs_Method\cs_Method\obj\Debug\net6.0\ref\cs_Method.dll
